@@ -4,6 +4,8 @@ name: fista_app
 description: A new Flutter project
 publish_to: 'none' # パッケージ公開しない場合
 
+version: 2.0.0+0
+
 environment:
   sdk: '>=3.8.0 <4.0.0'
 
