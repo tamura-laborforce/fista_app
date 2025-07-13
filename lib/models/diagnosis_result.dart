@@ -1,0 +1,1 @@
+// Model for diagnosis result
