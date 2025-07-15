@@ -1,0 +1,37 @@
+# ── pubspec.yaml ──
+
+name: fista_app_v2
+description: A new Flutter project
+publish_to: 'none' # パッケージ公開しない場合
+
+version: 2.0.0+0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.19.1
+  cloud_firestore: ^4.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.14.4
+
+# flutter_launcher_icons の設定（トップレベル）
+flutter_icons:
+  android: true
+  ios: true
+  image_path: assets/fista_icon_1024.png
+
+flutter:
+  uses-material-design: true
+
+  # アプリ内で使う画像アセットをここに列挙
+  assets:
+    - assets/fista_icon_1024.png

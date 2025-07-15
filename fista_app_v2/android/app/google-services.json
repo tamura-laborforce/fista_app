@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842881868359",
+    "project_id": "fista-app-demo",
+    "storage_bucket": "fista-app-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842881868359:android:707fd2c8a2089a68b8c762",
+        "android_client_info": {
+          "package_name": "com.example.fista_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5jHKAN-wi7XNYJzzZyTtcNWxzLhAKDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
